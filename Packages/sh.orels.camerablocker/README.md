@@ -2,6 +2,10 @@
 
 This is a simple Unity Shader that is meant to be used in VRChat worlds to block player cameras of looking somewhere they shouldn't be.
 
+
+https://user-images.githubusercontent.com/3798928/197785427-94479780-8a60-447b-ac6e-3f04de9d9b0f.mp4
+
+
 ## Installation
 
 - [Download the package](https://orels1.github.io/orels-vrc-packages/) and follow the [instructions here](https://github.com/orels1/orels-vrc-packages#installation)
