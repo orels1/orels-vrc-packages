@@ -7,6 +7,9 @@
 # Installation
 
 - [Open the listing website](https://orels1.github.io/orels-vrc-packages/) and download the package in a format you prefer
+- Either Drag & Drop the `.unitypackage` into your project if you downloaded that
+- **OR** unpack the Zip file into your `Packages` folder, e.g. `C:\UnityProjects\MyProject\Packages\sh.orels.camerablocker-1.0.0`
+- Check out the package-specific Usage section in the relevant Readme, e.g. Project View in Unity -> Packages -> Camera Blocker -> README
 
 # Packages included
 

@@ -4,7 +4,8 @@ This is a simple Unity Shader that is meant to be used in VRChat worlds to block
 
 ## Installation
 
-- [Download the repository](https://github.com/orels1/VRCCameraBlocker/archive/refs/heads/main.zip) and put it somewhere in your Assets
+- [Download the package](https://orels1.github.io/orels-vrc-packages/) and follow the [instructions here](https://github.com/orels1/orels-vrc-packages#installation)
+- Once unpacked, proceed to the [Usage](#usage) section
 
 ## Usage
 
